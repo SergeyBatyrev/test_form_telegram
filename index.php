@@ -16,7 +16,6 @@
 
     ?>
     <script>
-        debugger
         const regex = /^\d+$/;
         let form = document.forms[0];
         let teltext = document.querySelector('.teltext');
